@@ -18,7 +18,7 @@ Assignment #8 - Practice and Prove: Tiled & Floating Dashboards
 
 Assignment #9 - Implementing Brand Color Scheme
 
-Assignment #10 - Your Dashboard's Story
+Assignment #10 - Your Final Dashboard's Story
 
 Assignment #11 - Final Project
 
